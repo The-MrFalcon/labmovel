@@ -829,6 +829,20 @@ nav.fill .navbar-nav .dropdown-item a:hover:after {
     width: 90%;
 }
 
+@media screen and (max-width: 600px){
+    .exames.bg-primary{
+        border-bottom-left-radius:450% 50% !important;
+        border-bottom-right-radius:450% 50% !important;
+        padding-bottom: 50% !important;
+        width: 90%;
+    }
+
+    .exames.bg-primary::before {
+        border-bottom-left-radius:450% 50% !important;
+        border-bottom-right-radius:450% 50% !important;
+    }
+}
+
 .exames .shine {
     position: absolute;
     left: 10%;

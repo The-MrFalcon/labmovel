@@ -43,7 +43,7 @@
                 </div>
                 <h2 class="text-white mb-4 uppercased">Contato</h2>
                 <div class="break"></div>
-                <a class="mb-2 badge btn btn-outline-dark wow fadeIn" href="https://goo.gl/maps/Z3iVxvNU1ZT9KDbm6" target="_blank" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>Rua Coronel Luís Americano 266 - Vila Azevedo <br> SP. CEP: 03308-020</a>
+                <a class="mb-2 badge btn btn-outline-dark wow fadeIn" href="https://www.google.com/maps/place/R.+Cel.+Luís+Americano,+266+-+Vila+Azevedo,+São+Paulo+-+SP,+03308-020,+Brasil/@-23.542335,-46.574359,16z/data=!4m6!3m5!1s0x94ce5ec1e4a04849:0x24b26c065077724a!8m2!3d-23.5423348!4d-46.5743589!16s%2Fg%2F11q4m1cgkl?hl=pt-BR" target="_blank" data-wow-delay="0.1s"><i class="fa fa-map-marker-alt me-2"></i>Rua Coronel Luís Americano 266 - Vila Azevedo <br> SP. CEP: 03308-020</a>
                 <a class="mb-2 btn btn-outline-dark wow fadeIn" href="https://api.whatsapp.com/send?phone=5511943097596&text=" target="_blank" data-wow-delay="0.3s"><i class="fa fa-phone-alt me-2"></i>(11) 94309-7596</a>
                 <p class="mb-2 wow fadeIn" data-wow-delay="0.5s"><i class="fa fa-envelope me-2"></i>contato@labmovel.com.br</p>
                 <div class="d-flex pt-2 mb-4" style="justify-content: center;">
